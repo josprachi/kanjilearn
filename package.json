@@ -1,0 +1,29 @@
+{
+  "name": "kanjilearn",
+  "version": "1.0.0",
+  "description": "A Standalone app to practice Japanese kanji through a fun way",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josprachi/kanjilearn.git"
+  },
+  "keywords": [
+    "kanji",
+    "practice",
+    "kanji",
+    "japanese"
+  ],
+  "author": "Prachi Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josprachi/kanjilearn/issues"
+  },
+  "homepage": "https://github.com/josprachi/kanjilearn#readme",
+  "devDependencies": {
+    "electron": "^10.1.3"
+  }
+}
